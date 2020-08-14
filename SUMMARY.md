@@ -11,3 +11,12 @@
 
 * [this is a sub page for onboarding](this-is-a-sub-page-for-onboarding.md)
 
+## Another Group, maybe platform specs?
+
+* [Permissions](another-group-maybe-platform-specs/permissions.md)
+
+---
+
+* [Metadata](metadata/README.md)
+  * [Canonical Metadata](metadata/canonical-metadata.md)
+
