@@ -12,22 +12,15 @@ $ give me super-powers
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-Once you're strong enough, save the world:
+Once you're strong enough, try to save the world:
 
 ```java
-public void someMethod(Document someDoc) {
-    soSomethingWithDoc(someDoc);
+public void saveTheWorld(Threat someThreat) {
+    return myPowers.stream().anyMatch(p -> p.canOvercome(someThreat));
 }
 ```
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-![Don&apos;t mess with IronClad](.gitbook/assets/ironclad.png)
+![Don&apos;t mess with IronClad&apos;s super powers!](.gitbook/assets/ironclad.png)
 
 
 
