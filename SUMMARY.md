@@ -14,11 +14,8 @@
 
 ## Another Group, maybe platform specs?
 
+* [Metadata](another-group-maybe-platform-specs/metadata/README.md)
+  * [Canonical Metadata](another-group-maybe-platform-specs/metadata/canonical-metadata.md)
 * [Permissions](another-group-maybe-platform-specs/permissions/README.md)
   * [Project Permissions](another-group-maybe-platform-specs/permissions/project-permissions.md)
-
----
-
-* [Metadata](metadata/README.md)
-  * [Canonical Metadata](metadata/canonical-metadata.md)
 
