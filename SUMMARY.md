@@ -4,6 +4,7 @@
 
 ## This is a group, maybe about onboarding
 
+* [I'm going to delete this](this-is-a-group-maybe-about-onboarding/im-going-to-delete-this.md)
 * [this is the landing page for onboarding](this-is-a-group-maybe-about-onboarding/this-is-the-landing-page-for-onboarding/README.md)
   * [foobar](this-is-a-group-maybe-about-onboarding/this-is-the-landing-page-for-onboarding/foobar/README.md)
     * [foobar subpage](this-is-a-group-maybe-about-onboarding/this-is-the-landing-page-for-onboarding/foobar/foobar-subpage.md)
