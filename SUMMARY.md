@@ -16,6 +16,9 @@
 
 * [Metadata](another-group-maybe-platform-specs/metadata/README.md)
   * [Canonical Metadata](another-group-maybe-platform-specs/metadata/canonical-metadata.md)
-* [Permissions](another-group-maybe-platform-specs/permissions/README.md)
-  * [Project Permissions](another-group-maybe-platform-specs/permissions/project-permissions.md)
+
+---
+
+* [Permissions](permissions/README.md)
+  * [Project Permissions](permissions/project-permissions.md)
 
