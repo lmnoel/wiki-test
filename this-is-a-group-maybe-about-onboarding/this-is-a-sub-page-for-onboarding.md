@@ -20,7 +20,7 @@ public void saveTheWorld(Threat someThreat) {
 }
 ```
 
-![Don&apos;t mess with IronClad&apos;s super powers!](.gitbook/assets/ironclad.png)
+![Don&apos;t mess with IronClad&apos;s super powers!](../.gitbook/assets/ironclad.png)
 
 
 
